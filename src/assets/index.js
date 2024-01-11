@@ -30,7 +30,18 @@ import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 
+import game_grid from "./game_grid.png";
+import threads_clone from "./threads_clone.png";
+import rgbfarm from "./rgbfarm.png";
+import live_button from "./live_button.png";
+import graphql from "./tech/graphql.png"
+
 export {
+  game_grid,
+  threads_clone,
+  rgbfarm,
+  live_button,
+  graphql,
   logo,
   backend,
   creator,
