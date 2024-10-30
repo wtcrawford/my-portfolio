@@ -98,13 +98,7 @@ const Works = () => {
           />
         ))}
       </div>
-      <div className={`${styles.paddingX} mt-10 flex justify-center`}>
-        <a href="/Wyatt_SWE_text.docx" target="_blank" rel='noopener noreferrer'>
-          <button className='bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded'>
-            View My Resume
-          </button>
-        </a>
-      </div>
+      
     </>
   )
 }
