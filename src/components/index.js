@@ -16,7 +16,7 @@ export {
   // Experience,
   Works,
   Feedbacks,
-  Contact,
+  // Contact,
   EarthCanvas,
   BallCanvas,
   ComputersCanvas,
